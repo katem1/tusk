@@ -6,5 +6,8 @@ Pasta
 Pizza
 Chicken fry 
 
+Beans
+Spaghetti
+
 
 Thank you :)
